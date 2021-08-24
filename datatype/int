@@ -1,1 +1,6 @@
+void main() {
+  int a;
+  a = 56;
+  print("The value of a is: $a ");
+}
 
