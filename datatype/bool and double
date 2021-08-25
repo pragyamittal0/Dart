@@ -1,0 +1,6 @@
+void main() {
+ double v = 123.456;
+ bool value = true;
+  print("Value : $v");
+  print(value);
+}
