@@ -1,1 +1,15 @@
-Variable -- var -- dynamic
+
+
+void main() {
+ var a;
+  print(a);
+  a = "23";
+  print(a);
+  a= "Sneha";
+  print(a);
+  a = 23.56;
+  print(a);
+  a = true;
+  print(a);
+  
+}
