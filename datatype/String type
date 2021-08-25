@@ -1,0 +1,4 @@
+void main() {
+ String password = "I love to code";
+  print(" PassWord : $password");
+}
