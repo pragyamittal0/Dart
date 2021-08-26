@@ -1,4 +1,3 @@
-![for in loop](https://user-images.githubusercontent.com/69578414/131004936-d1f134b5-f6bf-45a7-bead-0fef7c158275.PNG)
 #### Loops
 * While loop
 * Do while loop
