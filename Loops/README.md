@@ -5,6 +5,10 @@
 * For in loop
 * Foreach loop
 
+### While Loop:
+![while loop](https://user-images.githubusercontent.com/69578414/131158220-a27e9d14-796a-4d75-b0b5-b4990afe7061.PNG)
+
+
 ### For Loop:
 ![for loop](https://user-images.githubusercontent.com/69578414/131004269-f5b89824-5dc1-4a60-9bc7-973d10fc5468.PNG)
 
