@@ -1,0 +1,9 @@
+void main()
+{
+	var num = 4;
+	int i = 1;
+	do {
+		print('Hello!');
+		i++;
+	} while(i<=num);
+}
