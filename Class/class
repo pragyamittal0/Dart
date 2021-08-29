@@ -1,1 +1,19 @@
+class car{
+  String color,brand;
+  
+  String method(){
+    return "Method is called";
+  }
+}
+
+void main()
+{
+	var obj = new car();
+	obj.color = "Red";
+  obj.brand = "Swift";
+  print(obj.color);
+  print(obj.method());
+  print(obj.brand);
+  
+}
 
